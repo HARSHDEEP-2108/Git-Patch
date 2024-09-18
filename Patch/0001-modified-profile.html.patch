@@ -1,0 +1,33 @@
+From a56a8776ef17d4479060ea090927d3bc36fc6f90 Mon Sep 17 00:00:00 2001
+From: Harshdeep Singh <chhabra.harsh2108@gmail.com>
+Date: Wed, 18 Sep 2024 16:14:34 +0530
+Subject: [PATCH] modified profile.html
+
+---
+ profile.html | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+diff --git a/profile.html b/profile.html
+index e69de29..fcafe45 100644
+--- a/profile.html
++++ b/profile.html
+@@ -0,0 +1,15 @@
++<html>
++
++<head>
++
++</head>
++
++<body>
++
++Git Patch Operation
++
++</body>
++
++</html>
++
++ Add, commit and push the change
+\ No newline at end of file
+-- 
+2.42.0.windows.2
+
